@@ -1,2 +1,1 @@
-add_lunch_combo omni_p930-userdebug
 add_lunch_combo omni_p930-eng

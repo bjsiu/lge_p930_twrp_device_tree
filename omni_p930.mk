@@ -31,9 +31,7 @@ PRODUCT_PACKAGES += \
     charger
 
 PRODUCT_COPY_FILES += \
-    device/lge/p930/kernel:kernel \
-
-PRODUCT_COPY_FILES += device/lge/p930/twrp.fstab:recovery/root/etc/twrp.fstab
+    device/lge/p930/prebuilt/kernel:kernel
 
 PRODUCT_NAME := omni_p930
 PRODUCT_DEVICE := p930
