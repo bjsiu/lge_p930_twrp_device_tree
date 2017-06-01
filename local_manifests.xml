@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="bjsiu/p930-twrp-omni" path="device/lge/p930" remote="github" revision="master" />
+</manifest>
